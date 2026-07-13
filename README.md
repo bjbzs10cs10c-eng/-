@@ -1,4 +1,4 @@
-# -
+# 新大一暑假除草机
 一个为了无聊的新大一学生所做的Python程序
 
 # 随机活动选择器 (Random Activity Selector)
